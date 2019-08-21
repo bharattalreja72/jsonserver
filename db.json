@@ -12,7 +12,7 @@
     { "id": 4, "body": "some comment", "postId": 1 },
     { "id": 5, "body": "some comment", "postId": 1 }
   ],
-  "SUBSCRIBE": {
-    "name": "SUBSCRIBE"
+  "profile": {
+    "name": "Bharat"
   }
 }
