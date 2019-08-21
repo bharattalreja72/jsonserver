@@ -6,13 +6,13 @@
     { "id": 4, "title": "Post 4" },
     { "id": 5, "title": "Post 5" }
   ],
-  "comments": [
+  "Comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 },
     { "id": 4, "body": "some comment", "postId": 1 },
     { "id": 5, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "SUBSCRIBE": {
     "name": "SUBSCRIBE"
   }
 }
